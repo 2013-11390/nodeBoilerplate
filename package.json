@@ -1,0 +1,19 @@
+{
+  "name": "node-boilerplate",
+  "version": "0.0.0",
+  "description": "boilerplate for node js api server",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2013-11390/nodeBoilerplate.git"
+  },
+  "author": "oscha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2013-11390/nodeBoilerplate/issues"
+  },
+  "homepage": "https://github.com/2013-11390/nodeBoilerplate#readme"
+}
