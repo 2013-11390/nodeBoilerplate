@@ -1,0 +1,12 @@
+Commit Message
+
+Explanation for the commit
+
+# Below messages are examples for the commit message.
+#
+# Add: custom debugger
+# Fix: load balancing logic to use round robin method
+# Fix: #36 (issue number)
+# Revert: commit message
+# Refactor: jwt middleware
+# Update: 0.0.1 (version number)
